@@ -1,12 +1,24 @@
 db.sqlite3
-modeloapp/__pycache__/*
-/apps/categories/__pycache__/*
-/apps/categories/migrations/*
-/apps/products/__pycache__/*
-/apps/products/migrations/*
-/apps/socialnetworks/__pycache__/*
-/apps/socialnetworks/migrations/*
-/apps/clients/__pycache__/*
-/apps/clients/migrations/*
-/apps/orders/__pycache__/*
-/apps/orders/migrations/*
+sist distr/webserver/webserver/__pycache__/*
+sist distr/webserver/apps/categories/__pycache__/*
+sist distr/webserver/apps/categories/migrations/*
+sist distr/webserver/apps/products/__pycache__/*
+sist distr/webserver/apps/products/migrations/*
+sist distr/webserver/apps/socialnetworks/__pycache__/*
+sist distr/webserver/apps/socialnetworks/migrations/*
+sist distr/webserver/apps/clients/__pycache__/*
+sist distr/webserver/apps/clients/migrations/*
+sist distr/webserver/apps/orders/__pycache__/*
+sist distr/webserver/apps/orders/migrations/*
+
+usabilidade/usblprojeto/usblprojeto/__pycache__/*
+usabilidade/usblprojeto/apps/categories/__pycache__/*
+usabilidade/usblprojeto/apps/categories/migrations/*
+usabilidade/usblprojeto/apps/products/__pycache__/*
+usabilidade/usblprojeto/apps/products/migrations/*
+usabilidade/usblprojeto/apps/socialnetworks/__pycache__/*
+usabilidade/usblprojeto/apps/socialnetworks/migrations/*
+usabilidade/usblprojeto/apps/clients/__pycache__/*
+usabilidade/usblprojeto/apps/clients/migrations/*
+usabilidade/usblprojeto/apps/orders/__pycache__/*
+usabilidade/usblprojeto/apps/orders/migrations/*
